@@ -1,0 +1,57 @@
+body{
+    background-color: #ebbeb7;
+    font-family: 'Odibee Sans', cursive;
+}
+.header{
+    background-color: white;
+    color: red;
+}
+.header img{
+    width: 100px;
+}
+.main_div{
+    border: 3px solid white;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(224, 102, 102);
+}
+.main_div label{
+    width: 310px;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom: 0px;
+}
+#camera ,  #result{
+    border: 2px solid white;
+    width: 320px;
+    box-shadow: 5px 5px 18px white;
+    height: 300px;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.copy_right_footer{
+    background-color: white;
+    color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
